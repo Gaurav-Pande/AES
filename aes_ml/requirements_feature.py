@@ -1,0 +1,6 @@
+from feature_extraction import sentence_to_word_list
+from feature_extraction import essay_to_sentences
+from feature_extraction import get_avg_word_vec
+from feature_extraction import get_prompt_word_vecs
+from feature_extraction import get_word_count_vector
+from feature_extraction import get_prompt_vectors
