@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 <br>
 
-<img src="https://github.com/parthv21/NLP-Project-AES/blob/master/figs/aes_ml.png" width="600" alt="ML Architecture for AES"/>
+![image](./figs/aes_ml.png)
 
 
 
@@ -88,7 +88,8 @@ Besides these files, all the imports have been defined in python files that have
 
 The code in this section is exploration of different deep learning techniques on individual sets and on whole dataset.
 
-<img src="https://github.com/parthv21/NLP-Project-AES/blob/master/figs/arch.png" width="800" alt="DL Architecture for AES"/>
+![image](./figs/arch.png)
+
 
  
 #### So what did we try:
