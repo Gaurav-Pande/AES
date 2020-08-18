@@ -1,6 +1,6 @@
 # AES
 
-[NOTE] : This is the course project for cs7650. If you are looking for detailed deep learning implementation for this proeject please refer to this repo:https://github.com/Gaurav-Pande/AES_DL
+[NOTE] : This is the course project for cs7650. If you are looking for detailed deep learning implementation for this project please refer to this repo:https://github.com/Gaurav-Pande/AES_DL
 
 Course project for CS 7650 NLP (Georiga Tech)
 
